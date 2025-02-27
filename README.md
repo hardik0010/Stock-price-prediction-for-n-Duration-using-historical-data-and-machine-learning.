@@ -1,6 +1,10 @@
 # Stock-price-prediction-for-n-Duration-using-historical-data-and-machine-learning.
 A machine learning project that predicts stock prices for a given future date using historical data.   Uses Linear Regression with `yahooquery` for fetching stock data and `matplotlib` for visualization.  
 
+⚠ Disclaimer
+📢 This project is for educational purposes only.
+📢 It should NOT be used for actual stock trading decisions.
+
 # 📈 Stock Price Prediction Using Linear Regression
 
 This Python project predicts future stock prices using **Linear Regression** based on historical stock data.  
@@ -58,3 +62,7 @@ Plots results using matplotlib
 Gajjar Hardik
 📧 Contact: 9687219575
 🔗 GitHub: https://github.com/hardik0010
+
+⚠ Disclaimer
+📢 This project is for educational purposes only.
+📢 It should NOT be used for actual stock trading decisions.
